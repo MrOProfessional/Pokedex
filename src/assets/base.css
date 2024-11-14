@@ -1,0 +1,20 @@
+:root {
+  --primary-color: #CD7373;
+  --secondary-color: #bce5ff;
+  --ternary-color: #5294AC;
+  --primary-accent: #8a1d1d;
+  --ternary-accent: #34c3ff;
+  --white-color: #fff;
+  --grey-color: #5b5b5b;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-family: "Pixelify Sans", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+  text-align: start;
+  color: var(--white-color);
+}
